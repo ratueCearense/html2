@@ -5,14 +5,20 @@ body{
 }
 
 footer{
- background-color: #254d25;
+ background-color: #1d3d1d;
  color: cornsilk;
-position: fixed;
+position: relative;
 width: 100%;
-height:2rem;
+height:3rem;
 }
 
+footer p {
 
+text-align: center;
+font-size:2.0rem;
+margin-top:48.0rem;
+
+}
 
 
 
